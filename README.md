@@ -1,4 +1,4 @@
-# Team 01's Homepage
+# Team 6 제목
 
 | 이름 | 학번 | GitHub ID | Email |
 |:---:|:---|:---|:---|
